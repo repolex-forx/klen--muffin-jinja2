@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-jinja2/commit/8c270cf7cfce7ee718e6629ad62add9bebdef747",
       "git:hexsha": "8c270cf7cfce7ee718e6629ad62add9bebdef747",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-20T21:38:29.856703+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/muffin-jinja2/commit/04dcef0ec0d79bfcd1c4c51808d5730727055c2d",
