@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "muffin-jinja2",
+  "versions": [
+    {
+      "commit": "8c270cf7cfce7ee718e6629ad62add9bebdef747",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:38:29.857511+00:00"
+    }
+  ]
+}
